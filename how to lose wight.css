@@ -7,3 +7,20 @@
   box-sizing: border-box;
   scroll-behavior: smooth;
 }
+body {
+  background-color: black;
+  color: white;
+  width: 80%;
+  align-items: center;
+  padding: 50px;
+}
+img {
+  float: left;
+  width: 30%;
+  height: 30%;
+  border-radius: 15px;
+}
+
+.content {
+  margin-left: 10px;
+}

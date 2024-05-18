@@ -110,7 +110,7 @@ p {
   color: #ffff;
 }
 .about-us {
-  background-color: #222629;
+  background-color: #040d12;
 }
 
 .icon {
@@ -133,4 +133,7 @@ p {
   transition: 0.9s ease;
   background-color: black;
   box-shadow: 0 5px 25px white;
+}
+.info-header {
+  color: #e9c600;
 }

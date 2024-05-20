@@ -40,7 +40,7 @@ section {
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background-image: url(images/pexels-victorfreitas-841131.jpg);
+  background-image: url(images/main\ img.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -71,7 +71,7 @@ section {
   font-weight: 800;
 }
 .cards {
-  background-image: url(images/the\ barpel\ one\ .jpg);
+  background-image: url(images/the\ barpel\ one\ sec2.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -96,7 +96,7 @@ section {
 .project-image img {
   width: 100%;
 }
-.letsgoooooo {
+.more-details {
   text-decoration: none;
   margin-left: 15em;
   margin-bottom: 5em;
